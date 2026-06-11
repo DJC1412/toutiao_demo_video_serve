@@ -1,0 +1,26 @@
+# 视频和封面（大文件，本地生成）
+videos/
+covers/
+
+# Cookie 登录凭证
+cookies.txt
+
+# 生成的 JSON 数据
+feed_data.json
+feed_remote.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
